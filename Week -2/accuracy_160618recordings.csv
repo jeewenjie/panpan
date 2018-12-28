@@ -1,0 +1,13 @@
+index,labels,accuracy
+0,unknown,0.95
+1,down,0.17
+2,right,0.75
+3,no,0.78
+4,yes,0.72
+5,up,0.81
+6,go,0.68
+7,off,0.28
+8,on,0.56
+9,silence,-
+10,stop,0.64
+11,left,0.89
